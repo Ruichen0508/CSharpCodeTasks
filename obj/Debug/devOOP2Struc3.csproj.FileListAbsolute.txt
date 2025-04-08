@@ -1,0 +1,3 @@
+C:\PT4Work\obj\Debug\devOOP2Struc3.csprojResolveAssemblyReference.cache
+C:\PT4Work\obj\Debug\ptprj.exe
+C:\PT4Work\obj\Debug\ptprj.pdb

@@ -1,0 +1,6 @@
+C:\PT4Work\obj\Debug\devXFile35.csprojResolveAssemblyReference.cache
+C:\PT4Work\ptprj.exe.config
+C:\PT4Work\obj\Debug\ptprj.exe
+C:\PT4Work\obj\Debug\ptprj.pdb
+C:\PT4Work\ptprj.exe
+C:\PT4Work\ptprj.pdb

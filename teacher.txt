@@ -1,0 +1,40 @@
+TASK CHECKING (4-Zhao Jiankai)
+Date and time of check: 25.06.2022 21:32
+-------------------------
+ 1. SUMMARY INFORMATION
+-------------------------
+Solved tasks (9):
+ XString7     XString17    XString25    XString29    XString48    XString64   
+ XText12      OOP1Creat5   OOP2Struc9  
+Tasks whose solutions have defects (5):
+ LinqBegin1   LinqBegin12  LinqBegin35  LinqBegin42  LinqBegin58 
+Tasks for which the correct solutions have not been found in the repository (4):
+ XString39    XString60    LinqBegin30  LinqBegin47 
+Summary by each task group:
+ XString 6/8[6/8](75%)                  XFile 0/4[0/4](0%)                    
+ XText 1/6[1/6](17%)                    OOP1Creat 1/4[1/4](25%)               
+ OOP2Struc 1/4[1/4](25%)                OOP3Behav 0/8[0/14](0%)               
+ LinqBegin 0/9[0/9](0%)                 LinqObj 0/9[0/15](0%)                 
+ LinqXml 0/10[0/16](0%)                 TOTAL: 9/62[9/80](11%)                
+-------------------------
+ 2. COMPLETE INFORMATION
+-------------------------
+= XString7    S27/04 23:55 [version 5] 1/Solution is correct (points: 1)
+= XString17   S27/04 23:47 [version 4] 1/Solution is correct (points: 1)
+= XString25   S28/04 00:10 [version 7] 1/Solution is correct (points: 1)
+= XString29   S02/06 19:15 [version 1] 1/Solution is correct (points: 1)
+= XString39   S02/06 22:08 [version 1] 2/No version in the repository with the correct solution
+= XString48   S02/06 22:10 [version 1] 1/Solution is correct (points: 1)
+= XString60   S02/06 22:28 [version 1] 2/No version in the repository with the correct solution
+= XString64   S02/06 22:28 [version 1] 1/Solution is correct (points: 1)
+= XText12     S02/06 23:08 [version 1] 1/Solution is correct (points: 1)
+= OOP1Creat5  S03/06 12:46 [version 1] 1/Solution is correct (points: 1)
+= OOP2Struc9  S23/06 11:59 [version 5] 1/Solution is correct (points: 1)
+= LinqBegin1  S03/06 12:20 [version 1] 5/Solution does not satisfy the task conditions
+  USE LINQ QUERIES!
+= LinqBegin12 S03/06 12:37 [version 1] 5/Solution does not satisfy the task conditions
+= LinqBegin30 S04/06 07:23 [version 1] 2/No version in the repository with the correct solution
+= LinqBegin35 S04/06 16:07 [version 1] 5/Solution does not satisfy the task conditions
+= LinqBegin42 S04/06 19:44 [version 1] 5/Solution does not satisfy the task conditions
+= LinqBegin47 S04/06 20:26 [version 1] 2/No version in the repository with the correct solution
+= LinqBegin58 S05/06 08:03 [version 1] 5/Solution does not satisfy the task conditions
